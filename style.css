@@ -6,10 +6,12 @@
 }
 
 body {
+    background-image: url(../projeto-joaopedro/assets/pnfe3hsy5d4c1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
     font-family: Arial, sans-serif;
-    background-color: #050445; 
-    color: #333; 
-    line-height: 1.6;
+    
 }
 
 .container {
@@ -186,4 +188,5 @@ footer {
 
 footer p {
     margin: 10px 0;
+
 }
